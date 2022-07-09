@@ -1,4 +1,4 @@
-import s from './Button.module.css';
+import s from './Button.module.scss';
 const Button = ({ text }) => (
   <button type="button" className={s.button}>
     {text}

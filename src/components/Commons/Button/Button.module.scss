@@ -1,0 +1,11 @@
+@import '../Colors.module.scss';
+.button {
+  font-family: inherit;
+  background-color: getColor('primary');
+  height: 34px;
+  padding: 4px 29px;
+  border-radius: 80px;
+  &:hover {
+    background-color: getColor('btnHover');
+    }
+}

@@ -1,0 +1,12 @@
+$colors: (
+    'primary': #F4E041,  
+    'secondary': #00BDD3,   
+    'background': #F8F8F8,
+    'btnHover': #FFE302,
+);
+
+@function getColor($key) {
+    @return map-get($colors, $key);
+}
+
+
