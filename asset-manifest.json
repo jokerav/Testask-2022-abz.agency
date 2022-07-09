@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Testask-2022-abz.agency/static/css/main.4d2b39e3.css",
-    "main.js": "/Testask-2022-abz.agency/static/js/main.e0278fcf.js",
+    "main.css": "/Testask-2022-abz.agency/static/css/main.4e9bdafe.css",
+    "main.js": "/Testask-2022-abz.agency/static/js/main.8fafd4d0.js",
     "static/media/Logo.svg": "/Testask-2022-abz.agency/static/media/Logo.8bb55362d01d55393ccc5476d96f0c14.svg",
     "index.html": "/Testask-2022-abz.agency/index.html",
-    "main.4d2b39e3.css.map": "/Testask-2022-abz.agency/static/css/main.4d2b39e3.css.map",
-    "main.e0278fcf.js.map": "/Testask-2022-abz.agency/static/js/main.e0278fcf.js.map"
+    "main.4e9bdafe.css.map": "/Testask-2022-abz.agency/static/css/main.4e9bdafe.css.map",
+    "main.8fafd4d0.js.map": "/Testask-2022-abz.agency/static/js/main.8fafd4d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d2b39e3.css",
-    "static/js/main.e0278fcf.js"
+    "static/css/main.4e9bdafe.css",
+    "static/js/main.8fafd4d0.js"
   ]
 }
