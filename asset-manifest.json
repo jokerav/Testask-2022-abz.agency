@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Testask-2022-abz.agency/static/css/main.63c98408.css",
-    "main.js": "/Testask-2022-abz.agency/static/js/main.4117a3f2.js",
+    "main.css": "/Testask-2022-abz.agency/static/css/main.4d2b39e3.css",
+    "main.js": "/Testask-2022-abz.agency/static/js/main.e0278fcf.js",
+    "static/media/Logo.svg": "/Testask-2022-abz.agency/static/media/Logo.8bb55362d01d55393ccc5476d96f0c14.svg",
     "index.html": "/Testask-2022-abz.agency/index.html",
-    "main.63c98408.css.map": "/Testask-2022-abz.agency/static/css/main.63c98408.css.map",
-    "main.4117a3f2.js.map": "/Testask-2022-abz.agency/static/js/main.4117a3f2.js.map"
+    "main.4d2b39e3.css.map": "/Testask-2022-abz.agency/static/css/main.4d2b39e3.css.map",
+    "main.e0278fcf.js.map": "/Testask-2022-abz.agency/static/js/main.e0278fcf.js.map"
   },
   "entrypoints": [
-    "static/css/main.63c98408.css",
-    "static/js/main.4117a3f2.js"
+    "static/css/main.4d2b39e3.css",
+    "static/js/main.e0278fcf.js"
   ]
 }
