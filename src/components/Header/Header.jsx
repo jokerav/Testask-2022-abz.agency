@@ -1,10 +1,11 @@
 import s from './Header.module.css';
+import s1 from '../Commons/Container/Container.module.css';
+import Button from 'components/Commons/Button/Button';
+import { ReactComponent as Logo } from '../../img/Logo.svg';
 const Header = () => (
-  <header>
-    <h1 className={s.header}>Hello</h1>
-    <p>Тут буде лого</p>
-    <button type="button">Users</button>
-    <button type="button">Sign up</button>
+  <header className={s1.container}>
+    <Logo className={s.logo} />
+    <Button text="sign in" />
   </header>
 );
 
